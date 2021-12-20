@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-##I'm Lakshay:
+I'm an experienced Analytics Consultant with a demonstrated history of working in the analytics industry. I have led several analytics projects end-to-end, including projects focused on promotional response modeling analysis, patient-level data analysis, segmentation analysis, and sales data analytics. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
+
+Currently, I am pursuing the Master of Science in Business Analytics and Information Management program at Purdue University. Through this program, I am seeking to further expand my breadth of technical knowledge of machine learning, formalize my business acumen, as well as get further industry exposure through experiential learning.
+
+I am passionate about problems that can be solved through data, and I get excited by all such unexplored possibilities in our tech-driven world. Throughout my four years of work experience, I have been fascinated by how much a group of people can achieve through a structured project and the first questions I ask when I start working on a new business problem are "Why is this problem important?", and "What's the best way we can tackle this as a group?". I am always looking for opportunities where I can enhance my Data Analytics/Data Science Skills.
+
+#### 👨🏻‍📫 How to reach me <br />
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/lakshayvohra)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/lakshay-vohra/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vohralakshay/)  &nbsp; <a href="mailto:vohra.lakshay@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
