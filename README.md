@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced Analytics Consultant with a demonstrated history of working in the analytics industry. I have led several analytics projects end-to-end, including projects focused on promotional response modeling analysis, patient-level data analysis, segmentation analysis, and sales data analytics. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
+I'm an experienced data scientist with a demonstrated history of working in the analytics consulting industry. I have led several analytics projects end-to-end, including projects focused on promotional response modeling analysis, patient-level data analysis, segmentation analysis, and sales data analytics. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
 
 Currently, I am pursuing the Master of Science in Business Analytics and Information Management program at Purdue University. Through this program, I am seeking to further expand my breadth of technical knowledge of machine learning, formalize my business acumen, as well as get further industry exposure through experiential learning.
 
